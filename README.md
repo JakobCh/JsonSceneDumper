@@ -1,9 +1,11 @@
 # JsonSceneDumper
 A Unity scene dumper that outputs json.
+
 Based on the dumper in the developer console from https://github.com/bbepis/BepisPlugins
 
 # Installation
 First get BepInEx: https://github.com/BepInEx/BepInEx
+
 Then grab the dll and put it in the [Game]/BepInEx folder.
 
 # Usage
