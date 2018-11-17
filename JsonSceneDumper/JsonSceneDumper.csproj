@@ -7,8 +7,8 @@
     <ProjectGuid>{EBB55694-F7E9-4469-A7EB-CDB4E4077A91}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>bepinex_JsonDump</RootNamespace>
-    <AssemblyName>bepinex_JsonDump</AssemblyName>
+    <RootNamespace>JsonSceneDumper</RootNamespace>
+    <AssemblyName>JsonSceneDumper</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
